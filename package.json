@@ -1,0 +1,14 @@
+{
+  "name": "version-webpack-plugin",
+  "version": "1.0.0",
+  "description": "webpack生成version信息插件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dinglei19",
+  "license": "ISC",
+  "dependencies": {
+    "html-webpack-plugin": "^5.5.1"
+  }
+}
